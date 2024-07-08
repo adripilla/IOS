@@ -1,0 +1,7 @@
+echo .DS_Store >> .gitignore
+echo ._.DS_Store >> .gitignore
+echo ._appJuegoCartas >> .gitignore
+echo ._appMallaOndulante >> .gitignore
+echo ._appPaisajeCurvasBezier >> .gitignore
+echo ._appSwiftUI >> .gitignore
+echo ._appTabBarViewController >> .gitignore
